@@ -1,0 +1,3 @@
+C:/Users/Student/Downloads/Prog10/Auta/out/build/x64-Debug/CMakeFiles/Auta.dir
+C:/Users/Student/Downloads/Prog10/Auta/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Student/Downloads/Prog10/Auta/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
